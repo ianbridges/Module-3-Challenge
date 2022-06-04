@@ -11,4 +11,4 @@
 
     [Website](https://ianbridges.github.io/Module-3-Challenge/)
 
-    ![Image](./Develop/assets/Website%20Screenshot.jpg)
+    ![Image](./assets/Website%20Screenshot.jpg)
