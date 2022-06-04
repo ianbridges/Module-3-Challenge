@@ -9,6 +9,6 @@
     This application is extremely simple to use and each password
     is completely randomized.
 
-    [Website](https://ianbridges.github.io/Module-3-Challenge/)
+[Website](https://ianbridges.github.io/Module-3-Challenge/)
 
-    ![Image](./assets/Website%20Screenshot.jpg)
+![Image](./assets/Website%20Screenshot.jpg)
